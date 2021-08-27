@@ -1,18 +1,46 @@
 body{
 
-	background-color: red;
-	
+	background-color: #BA55D3;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-family: 'Indie Flower', cursive;	
 }
 
 h1{
-
 	text-align: center;
-	color: #006400;
+	color: #4B0082;
 }
 
 h2,h3{
-	color: #006400;
+color: #4B0082;
+
 }
 
+p{
+	font-size: 1.3em;
+	text-indent: 3em; 
+	color: #4B0082;
+
+
+}
+
+figure{
+
+	text-align: center;
+}
+
+img{
+
+	width: 50%;
+}
+
+.negrito{
+	font-weight: bold;
+}
+
+.tamanho{
+
+	width: 80%;
+}
 
 
